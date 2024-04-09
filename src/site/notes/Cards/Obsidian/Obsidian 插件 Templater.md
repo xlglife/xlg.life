@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cards/Obsidian/Obsidian 插件 Templater/","tags":["Obsidian/插件"],"noteIcon":"default","created":"2023-09-19","updated":"2024-04-10"}
+{"dg-publish":true,"permalink":"/Cards/Obsidian/Obsidian 插件 Templater/","tags":["Obsidian/插件"],"noteIcon":"👀 关注","created":"2023-09-19","updated":"2024-04-10"}
 ---
 
 ## 教程
