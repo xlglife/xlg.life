@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cards/未分类/测试AI模型的能力/","noteIcon":"📥 收集箱","created":"2024-04-03","updated":"2024-04-03"}
+{"dg-publish":true,"permalink":"/Cards/未分类/测试AI模型的能力/","noteIcon":"1","created":"2024-04-03","updated":"2024-04-03"}
 ---
 
 ## “弱智”问题
