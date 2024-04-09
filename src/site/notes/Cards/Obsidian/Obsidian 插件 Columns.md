@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cards/Obsidian/Obsidian 插件 Columns/","tags":["Obsidian/插件"],"noteIcon":"👀 关注","created":"2023-12-25","updated":"2023-12-31"}
+{"dg-publish":true,"permalink":"/Cards/Obsidian/Obsidian 插件 Columns/","tags":["Obsidian/插件"],"noteIcon":"1","created":"2023-12-25","updated":"2023-12-31"}
 ---
 
 ## 教程
