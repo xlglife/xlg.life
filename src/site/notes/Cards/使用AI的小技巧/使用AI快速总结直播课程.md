@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cards/使用AI的小技巧/使用AI快速总结直播课程/","tags":["AI","直播","idea","飞书妙记","使用AI的小技巧"],"created":"2024-03-09","updated":"2024-04-10"}
+{"dg-publish":true,"permalink":"/Cards/使用AI的小技巧/使用AI快速总结直播课程/","tags":["AI","直播","idea","飞书妙记","使用AI的小技巧"],"noteIcon":"default","created":"2024-03-09","updated":"2024-04-10"}
 ---
 
 在生财学习的时候，很多直播课并没有时间去听，好在生财都会将他们放到 [[飞书妙记\|飞书妙记]] 里
