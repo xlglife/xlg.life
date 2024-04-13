@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Cards/高质量Prompt/结构化提示 Prompt/","tags":["Prompt"],"noteIcon":1,"created":"2024-03-07","updated":"2024-04-10"}
+{"dg-publish":true,"permalink":"/Cards/高质量Prompt/结构化提示 Prompt/","tags":["Prompt"],"noteIcon":1,"created":"2024-03-07","updated":"2024-04-13"}
 ---
 
 ## 参考资料
-[🟢 结构化提示 | LearnPrompt](https://www.learnprompt.pro/article/gptStandard)
+[结构化提示 | LearnPrompt](https://www.learnprompt.pro/article/gptStandard)
 
 > 下面的内容来自于 [LangGPT/README\_zh.md at main · EmbraceAGI/LangGPT · GitHub](https://github.com/EmbraceAGI/LangGPT/blob/main/README_zh.md)
 
@@ -48,10 +48,6 @@
 ## Initialization
 作为角色 <Role>, 严格遵守 <Rules>, 使用默认 <Language> 与用户对话，友好的欢迎用户。然后介绍自己，并告诉用户 <Workflow>。
 ```
-
-效果图：
-
-<img src="examples/chinese_poet/write_poetry.jpg" width="60%" height="auto">
 
 ### 更多例子
 上面的诗人 Prompt 就是通过用 LangGPT 的 Role 模板设计的。 `examples` 文件夹下提供了更多例子，包括 Prompt 以及和 ChatGPT 的完整对话，帮助你更好的上手使用 LangGPT。
@@ -205,17 +201,3 @@ Markdown 的层级结构可以让 ChatGPT 很方便的识别变量所代表的�
 2. 'Reminder: The user language is language (<language>), rules (<rules>).'
 3. "<output>"
 ```
-
-### 条件语句
-
-像编程中一样使用条件语句，一个模板为：
-
-If [situation1 happen], you will take [action1], else, you will take [action2]
-
-### Json or Yaml 方便程序开发
-
-**LangGPT 目前使用 markdown 语言，本质上能表达层级结构关系的标记方式如 json, yaml 等都可以**
-
-也许可以让 ChatGPT 帮忙写个转换脚本？
-
-### Others(TBD)
