@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cards/小洛哥成长笔记/018 假期第三天，钱塘江边露营+Kimi官方内置指令/","tags":["小洛哥成长笔记"],"noteIcon":1,"created":"2024-05-02","updated":"2024-05-03"}
+{"dg-publish":true,"permalink":"/Cards/小洛哥成长笔记/018 假期第三天，钱塘江边露营+Kimi官方内置指令/","tags":["小洛哥成长笔记"],"noteIcon":1,"created":"2024-05-03","updated":"2024-05-03"}
 ---
 
 假期最后一天的好天气，带着老婆孩子去钱塘江边露营，享受了一下午的悠闲时光~
