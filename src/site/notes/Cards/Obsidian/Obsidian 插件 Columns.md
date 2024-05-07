@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/Cards/Obsidian/Obsidian 插件 Columns/","tags":["Obsidian/插件"],"noteIcon":"1","created":"2023-12-25","updated":"2023-12-31"}
 ---
 
+简介:: 多栏布局插件
+
 ## 教程
 - [Obsidian 插件：Obsidian Columns 支持分栏书写美化你的笔记样式](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/obsidian-columns/)
 - [[Obs＃84] 另一个更简便的笔记多栏作法：使用Columns插件\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1wT4y1k7SV/)
