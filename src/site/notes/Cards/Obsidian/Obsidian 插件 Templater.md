@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/Cards/Obsidian/Obsidian 插件 Templater/","tags":["Obsidian/插件"],"noteIcon":"1","created":"2023-09-19","updated":"2024-04-10"}
 ---
 
+简介:: 模板增强插件
+
 ## 教程
 - [在Obsidian中构建高效笔记模板，从Templates到Templater！\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1c64y1W7c2/)
 ## 语句
