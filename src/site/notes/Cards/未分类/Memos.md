@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Cards/未分类/Memos/","tags":["开源","自部署应用"],"noteIcon":1,"created":"2024-01-01","updated":"2024-04-11"}
 ---
 
-简洁:: 自部署的轻量级笔记服务
+简介:: 自部署的轻量级笔记服务
 
 ## 官方
 [Memos官网](https://www.usememos.com/)
