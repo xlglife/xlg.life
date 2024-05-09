@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Obsidian/","noteIcon":1,"created":"2024-04-11","updated":"2024-04-11"}
+{"dg-publish":true,"permalink":"/Atlas/Obsidian/","noteIcon":1,"created":"2024-04-11","updated":"2024-05-09"}
 ---
 
 ## Obsidian 插件
@@ -42,7 +42,7 @@
 - [x] Style Settings 样式管理
 - [ ] Supercharged Links 给链接/标签增加特殊样式
 - [x] Tag Wrangler 快速管理标签
-- [x] Tasks 任务管理
+- [x] [[Cards/Obsidian/Obsidian 插件 Tasks\|Obsidian 插件 Tasks]] 任务管理插件
 - [x] [[Cards/Obsidian/Obsidian 插件 Templater\|Obsidian 插件 Templater]] 模板增强模板
 - [ ] ToggleList 快速切换任务状态
 
