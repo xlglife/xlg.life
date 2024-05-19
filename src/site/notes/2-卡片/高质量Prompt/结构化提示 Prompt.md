@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-卡片/高质量Prompt/结构化提示 Prompt/","tags":["Prompt"],"noteIcon":1,"created":"2024-03-07","updated":"2024-04-13"}
+{"dg-publish":true,"permalink":"/2-卡片/高质量Prompt/结构化提示 Prompt/","tags":["Prompt"],"noteIcon":"1","created":"2024-03-07","updated":"2024-04-13"}
 ---
 
 ## 参考资料
