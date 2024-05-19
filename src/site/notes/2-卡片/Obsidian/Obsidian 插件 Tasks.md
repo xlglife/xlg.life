@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-卡片/Obsidian/Obsidian 插件 Tasks/","tags":["Obsidian/插件"],"noteIcon":1,"created":"2024-05-09","updated":"2024-05-09"}
+{"dg-publish":true,"permalink":"/2-卡片/Obsidian/Obsidian 插件 Tasks/","tags":["Obsidian/插件"],"noteIcon":"1","created":"2024-05-09","updated":"2024-05-09"}
 ---
 
 简介:: 任务管理插件
