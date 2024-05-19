@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-卡片/未分类/Memos/","tags":["开源","自部署应用"],"noteIcon":1,"created":"2024-01-01","updated":"2024-04-11"}
+{"dg-publish":true,"permalink":"/2-卡片/未分类/Memos/","tags":["开源","自部署应用"],"noteIcon":"1","created":"2024-01-01","updated":"2024-04-11"}
 ---
 
 简介:: 自部署的轻量级笔记服务
