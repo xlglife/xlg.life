@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-卡片/AI相关/如何选择Claude模型？/","tags":["Claude"],"noteIcon":1,"created":"2024-04-14","updated":"2024-04-14"}
+{"dg-publish":true,"permalink":"/2-卡片/AI相关/如何选择Claude模型？/","tags":["Claude"],"noteIcon":"1","created":"2024-04-14","updated":"2024-04-14"}
 ---
 
 ## Claude 3 模型家族
