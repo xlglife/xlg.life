@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-附属/数字花园/Obsidian/","noteIcon":1,"created":"2024-04-11","updated":"2024-05-09"}
+{"dg-publish":true,"permalink":"/3-附属/数字花园/Obsidian/","noteIcon":"1","created":"2024-04-11","updated":"2024-05-09"}
 ---
 
 ## Obsidian 插件
