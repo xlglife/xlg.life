@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-卡片/Obsidian/Obsidian 主题 Border/","noteIcon":1,"created":"2023-12-29","updated":"2024-04-10"}
+{"dg-publish":true,"permalink":"/2-卡片/Obsidian/Obsidian 主题 Border/","noteIcon":"1","created":"2023-12-29","updated":"2024-04-10"}
 ---
 
 ## 信息
