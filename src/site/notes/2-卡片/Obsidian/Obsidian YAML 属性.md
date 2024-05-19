@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-卡片/Obsidian/Obsidian YAML 属性/","tags":["Obsidian","YAML","Properties","frontmatter"],"noteIcon":1,"created":"2023-09-06","updated":"2024-04-10"}
+{"dg-publish":true,"permalink":"/2-卡片/Obsidian/Obsidian YAML 属性/","tags":["Obsidian","YAML","Properties","frontmatter"],"noteIcon":"1","created":"2023-09-06","updated":"2024-04-10"}
 ---
 
 ## 自定义键名
