@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-卡片/Obsidian/Obsidian Snippets 代码片段/","tags":["Obsidian","Snippets","代码片段"],"noteIcon":1,"created":"2023-09-15","updated":"2024-04-10"}
+{"dg-publish":true,"permalink":"/2-卡片/Obsidian/Obsidian Snippets 代码片段/","tags":["Obsidian","Snippets","代码片段"],"noteIcon":"1","created":"2023-09-15","updated":"2024-04-10"}
 ---
 
 
