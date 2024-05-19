@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-卡片/未分类/Chrome浏览器启动参数大全（命令行参数）/","noteIcon":1,"created":"2024-04-23","updated":"2024-04-23"}
+{"dg-publish":true,"permalink":"/2-卡片/未分类/Chrome浏览器启动参数大全（命令行参数）/","noteIcon":"1","created":"2024-04-23","updated":"2024-04-23"}
 ---
 
 ## 参数大全
