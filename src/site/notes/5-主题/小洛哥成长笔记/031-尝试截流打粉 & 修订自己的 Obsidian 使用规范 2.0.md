@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"growup100/031-尝试截流打粉 & 修订自己的 Obsidian 使用规范 2.0","permalink":"/growup100/031-尝试截流打粉 & 修订自己的 Obsidian 使用规范 2.0/","tags":["小洛哥成长笔记"],"noteIcon":"1","created":"2024-05-17","updated":"2024-05-19"}
+{"dg-publish":true,"dg-permalink":"growup100/031-尝试截流打粉&修订自己的Obsidian使用规范2.0","permalink":"/growup100/031-尝试截流打粉&修订自己的Obsidian使用规范2.0/","tags":["小洛哥成长笔记"],"noteIcon":"1","created":"2024-05-17","updated":"2024-05-20"}
 ---
 
 
