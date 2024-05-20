@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"growup100/034-RPA学习笔记：RPA 操作 Canva & 获取动态坐标 & 子流程和自定义指令","permalink":"/growup100/034-RPA学习笔记：RPA 操作 Canva & 获取动态坐标 & 子流程和自定义指令/","tags":["小洛哥成长笔记"],"noteIcon":"1","created":"2024-05-20","updated":"2024-05-20"}
+{"dg-publish":true,"dg-permalink":"growup100/034-RPA学习笔记：RPA操作Canva&获取动态坐标&子流程和自定义指令","permalink":"/growup100/034-RPA学习笔记：RPA操作Canva&获取动态坐标&子流程和自定义指令/","tags":["小洛哥成长笔记"],"noteIcon":"1","created":"2024-05-20","updated":"2024-05-20"}
 ---
 
 
