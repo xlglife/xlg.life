@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"growup100/023-小红书新号0笔记违规&重启DailyNote","permalink":"/growup100/023-小红书新号0笔记违规&重启DailyNote/","tags":["小洛哥成长笔记"],"noteIcon":"1","created":"2024-05-08","updated":"2024-05-19"}
+{"dg-publish":true,"dg-permalink":"growup100/023-小红书新号0笔记违规&重启DailyNote","permalink":"/growup100/023-小红书新号0笔记违规&重启DailyNote/","tags":["小洛哥成长笔记"],"noteIcon":"1","created":"2024-05-08","updated":"2024-05-08"}
 ---
 
 
