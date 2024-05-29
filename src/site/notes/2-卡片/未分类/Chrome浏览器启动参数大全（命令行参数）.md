@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/2-卡片/未分类/Chrome浏览器启动参数大全（命令行参数）/","noteIcon":"1","created":"2024-04-23","updated":"2024-04-23"}
+{"dg-publish":true,"permalink":"/2-卡片/未分类/Chrome浏览器启动参数大全（命令行参数）/","noteIcon":"1","created":"2024-04-23","updated":"2024-05-29"}
 ---
 
+
 ## 参数大全
+
 内容来源于 [Chrome浏览器启动参数大全（命令行参数） - 故人与猫 - 博客园](https://www.cnblogs.com/gurenyumao/p/14721035.html)
 
 #### 前言
@@ -28,7 +30,7 @@
 |11|--dns-prefetch-disable|停用 DNS 预读。|
 |12|--enable-print-preview|启用打印预览。|
 |13|--extensions-update-frequency|设定拓展自动更新频率，以秒为单位。|
-|14|--incognito|让浏览器直接以隐身模式启动。|
+|14|--incognito|**让浏览器直接以隐身模式启动。**|
 |15|--keep-alive-for-test|最后一个标签关闭后仍保持浏览器进程。（某种意义上可以提高热启动速度，不过你最好得有充足的内存）|
 |16|--kiosk|启用 kiosk 模式。（一种类似于全屏的浏览模式）|
 |17|--lang|使用指定的语言。|
@@ -36,7 +38,7 @@
 |19|--no-referrers|不发送 Http-Referer 头。|
 |20|--no-startup-window|启动时不建立窗口。|
 |21|--proxy-server|使用给定的代理服务器，这个参数只对 http 和 https 有效。|
-|22|--start-maximized|启动时最大化。|
+|22|--start-maximized|**启动时最大化。**|
 |23|--single-process|以单进程模式运行 Chromium。（启动时浏览器会给出不安全警告）。|
 |24|--user-agent|使用给定的 User-Agent 字符串。|
 |25|--process-per-tab|每个分页使用单独进程。|
@@ -1153,7 +1155,7 @@
 |1097|--whitelisted-extension-id|将给定的扩展 ID 添加到所有权限白名单。|
 |1098|--win-jumplist-action|指定在 Windows 跳转列表中单击了哪个类别选项导致浏览器启动。|
 |1099|--window-position|指定初始窗口位置:- 窗口位置=x，y|
-|1100|--window-size|设置初始窗口大小。提供格式为“800,600”的字符串。|
+|1100|--window-size|**设置初始窗口大小。提供格式为“800,600”的字符串。**|
 |1101|--window-workspace|指定初始窗口工作空间:-window-workspace= id|
 |1102|--windows10-custom-titlebar|允许自定义绘制标题栏和标签条背景，这样它就不像 Windows10 中默认的那样# FFFFFF|
 |1103|--winhttp-proxy-resolver|使用 WinHTTP 获取和评估 PAC 脚本。否则，默认情况下使用 Chromium 的网络堆栈进行提取，使用 V8 进行评估。|
